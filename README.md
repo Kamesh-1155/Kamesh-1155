@@ -4,7 +4,6 @@ Currently Pursuing👉🏼 B.Tech(AI&DS) in Vel Tech High Tech🎓. Looking for 
 Contact Me👉🏼[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmkamesh11@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Kamesh-1155&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kamesh-1155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:

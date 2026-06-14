@@ -1,7 +1,8 @@
 # 💫Hi!! I'm Kamesh🤍:
 Currently Pursuing👉🏼 B.Tech(AI&DS) in Vel Tech High Tech🎓. Looking for an oppurtunity to Enhance💪🏼 and put my Skills🔥in use.
 
-🔗 Connect with me
+🔗 Connect with Me
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmkamesh11@gmail.com) 
 
 # 📊 GitHub Stats:

@@ -31,7 +31,18 @@ I develop code in my dreams and deploy it in reality 😆
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamesh-g-133a5632b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/king_kamesh_11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kamesh_1155) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kamesh-1155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://komarev.com/ghpvc/?username=Kamesh-1155&icon=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kamesh-1155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kamesh-1155&theme=radical&hide_border=true" height="370"/>
+</p>
+
+<br/>
+
 <p align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamesh-1155&bg_color=1f1e20&color=d35fcb&line=5abc4e&point=D3D3D3&area=true&hide_border=true" width="100%"/>
 </p>
@@ -43,7 +54,7 @@ I develop code in my dreams and deploy it in reality 😆
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kamesh-1155&icon=0)](https://visitcount.itsvg.in)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=🙏🏼Thanks+for+visiting+my+profile!🤍;Keep+Learning+Keep+Building+🚀;Let's+Connect+and+Grow+Together+🔥" />
